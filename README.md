@@ -1,0 +1,2 @@
+# RTU-RIM1360-04B
+Equipo RIM1360-04B [18AI] configurado como RTU IEC60870-5-104
